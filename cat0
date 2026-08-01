@@ -285,7 +285,7 @@
             "name": "🚀公益接口1"
         },
         {
-            "url": " https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/xin.json",
+            "url": "https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/xin.json",
             "name": "🚀公益接口2"
         },
         {
@@ -313,7 +313,7 @@
             "name": "🚀七星影仓"
         },
         {
-            "url": ""https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/oge.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/oge.json",
             "name": "🚀讴歌线路"
         },
         {
@@ -325,16 +325,8 @@
             "name": "🚀摸鱼线路"
         },
         {
-            "url": " https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/quan.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/quan.json",
             "name": "🚀全能线路"
-        },
-        {
-            "url": "",
-            "name": "🚀"
-        },
-        {
-            "url": "",
-            "name": "🚀"
         },
         {
             "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
