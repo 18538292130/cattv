@@ -356,6 +356,101 @@
             "url": "https://13413.kstore.vip/tv/changqing.json",
             "name": "🚀科技长青"
         },
+        { 
+            "url": "http://live.shqsy.com/qstv.json",
+            "name": "🚀秋水接口"
+        },
+        { 
+            "url": "https://catbox.n13.club/jk/jsm.json",
+            "name": "🚀木鱼接口"
+        },
+        { 
+            "url": "http://ym.yimiios.vip/zc",
+            "name": "🚀壹米接口"
+        },
+        { 
+            "url": "http://ysys.lic10.cn/ys/",
+            "name": "🚀余生的客桟"
+        },
+        { 
+            "url": "https://jk.catvod.site/",
+            "name": "🚀肥猫捡漏"
+        },
+        { 
+            "url": "https://xn--2ww2-rp5imh.v.nxog.top/api2.php?id=1",
+            "name": "🚀神秘的哥哥们"
+        },
+        { 
+            "url": "https://xn--2ww2-rp5imh.v.nxog.top/api2.php?id=7",
+            "name": "🚀豆豆接口"
+        },
+        { 
+            "url": "https://xn--n33n-rp5imh.v.nxog.top/apitv.php?id=10",
+            "name": "🚀蜗牛接口"
+        },
+        { 
+            "url": "https://raw.githubusercontent.com/guot55/yg/main/box原.json",
+            "name": "🚀宝盒视界"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json",
+            "name": "🚀木偶接口"
+        },
+        { 
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/gta6664/gta6664/refs/heads/main/太子爷接口.json",
+            "name": "🚀藏宝阁优选"
+        },
+        { 
+            "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
+            "name": "🚀非凡晓晓"
+        },
+        { 
+            "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+            "name": "🚀二月红"
+        },
+        { 
+            "url": "https://www.ls660.com/TV/fantanyingtv.json",
+            "name": "🚀老苏"
+        },
+        { 
+            "url": "https://cr.5987768.xyz/晨瑞黑科/movie.php",
+            "name": "🚀晨瑞黑料"
+        },
+        { 
+            "url": "https://7337.kstore.vip/xw/测试勿传",
+            "name": "🚀星微Vip线"
+        },
+        { 
+            "url": "https://api.hgyx.vip/hgyx.json",
+            "name": "🚀嗨哥魔改"
+        },
+        { 
+            "url": "https://zhangqun1818.serv00.net/zq/api.json",
+            "name": "🚀老张线路"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box",
+            "name": "🚀周J线路"
+        },
+        { 
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+            "name": "🚀心魔线路"
+        },
+        { 
+            "url": "https://cccimg.com/down.php/7d1f30263b3f2bf3deda2d7faeef4844.zhen6",
+            "name": "🚀真六线路"
+        },
+        { 
+            "url": "",
+            "name": "🚀"
+        },
+
+ { 
+            "url": "",
+            "name": "🚀"
+        },
+
+
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
             "name": "🚀少儿教育"
