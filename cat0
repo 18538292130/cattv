@@ -54,11 +54,11 @@
         },
         {
             "url": "http://tv.999888987.xyz/",
-            "name": "🚀牛二数字"
+            "name": "🚀牛二数字1"
         },
         {
             "url": "http://tv.999888123.xyz/",
-            "name": "🚀牛二数字"
+            "name": "🚀牛二数字2"
         },
         {
             "url": "https://9280.kstore.vip/wex.json",
@@ -203,6 +203,66 @@
         { 
             "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
             "name": "🚀eggp"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png",
+            "name": "🚀天神IY"
+        },
+        {
+            "url": "http://hucongrong.web3v.work/10086.json",
+            "name": "🚀菠菜10086"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8cs.json",
+            "name": "🚀一木整合"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
+            "name": "🚀不唱歌鱼妖"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kuby007/temp/main/json/R_m_87583.json",
+            "name": "🚀盛世"
+        },
+        { 
+            "url": "https://files-cdn.cnblogs.com/files/blogs/700969/111.json",
+            "name": "🚀博客园1"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+            "name": "🚀雷蒙"
+        },
+        { 
+            "url": "https://www.ls660.com/TV/chabeihu.json",
+            "name": "🚀叙白 | 茶杯狐"
+        },
+        { 
+            "url": "https://gitee.com/frankfurt-exhibition/yixing/raw/master/yixing.json",
+            "name": "🚀艺里"
+        },
+        { 
+            "url": "https://www.xn--rgv465a.top/pro.json",
+            "name": "🚀无界"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀初秋语"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+            "name": "🚀胜寒"
+        },
+        { 
+            "url": "https://jihulab.com/blank7355005/box/-/raw/main/0.json",
+            "name": "🚀小盒酷玩"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/523099929/tvbox/main/tvbox.json",
+            "name": "🚀新乡学院"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+            "name": "🚀橘子柚"
         },
         {
             "url": "http://bp.tvbox.cam",
@@ -585,56 +645,8 @@
             "name": "🚀jak0099"
         },
         { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kuby007/temp/main/json/R_m_87583.json",
-            "name": "🚀盛世"
-        },
-        { 
-            "url": "https://files-cdn.cnblogs.com/files/blogs/700969/111.json",
-            "name": "🚀博客园1"
-        },
-        { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
-            "name": "🚀雷蒙"
-        },
-        { 
             "url": "https://gh-proxy.com/https://github.com/tianze889/tvds/raw/refs/heads/main/tvdc.json",
             "name": "🚀全球直播"
-        },
-        { 
-            "url": "https://www.ls660.com/TV/chabeihu.json",
-            "name": "🚀叙白 | 茶杯狐"
-        },
-        { 
-            "url": "https://gitee.com/frankfurt-exhibition/yixing/raw/master/yixing.json",
-            "name": "🚀艺里"
-        },
-        { 
-            "url": "https://www.xn--rgv465a.top/pro.json",
-            "name": "🚀无界"
-        },
-        { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀初秋语"
-        },
-        { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
-            "name": "🚀胜寒"
-        },
-        { 
-            "url": "https://jihulab.com/blank7355005/box/-/raw/main/0.json",
-            "name": "🚀小盒酷玩"
-        },
-        { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/523099929/tvbox/main/tvbox.json",
-            "name": "🚀新乡学院"
-        },
-        { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8cs.json",
-            "name": "🚀一木整合"
-        },
-        { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
-            "name": "🚀不唱歌鱼妖"
         },
         { 
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json",
@@ -696,10 +708,6 @@
             "url": "https://gitlab.hk/iii/qq/-/raw/main/20.json",
             "name": "🚀豆豆"
         },
-        {
-            "url": "http://hucongrong.web3v.work/10086.json",
-            "name": "🚀菠菜10086"
-        },
         { 
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/byteshijinn/tvbox/master/tvbox.txt",
             "name": "🚀菠菜shijinn"
@@ -707,14 +715,6 @@
         { 
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ifkid/Free-TVUrl/main/out/tvbox.txt",
             "name": "🚀lfkid"
-        },
-        { 
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
-            "name": "🚀橘子柚"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png",
-            "name": "🚀天神IY"
         },
         { 
             "url": "http://825826.xyz:666/tvbox/TYY2/SS.txt",
