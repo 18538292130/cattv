@@ -1,5 +1,13 @@
 {
     "urls": [
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+            "name": "🚀supermeguo"
+        },
+        {
+            "url": "http://ko.zoho.to/ii/63143.txt",
+            "name": "🚀熊猫"
+        },   
         {
             "url": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/flapi.json",
             "name": "🚀luota"
@@ -32,10 +40,6 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/peek1.json",
             "name": "🚀yigedashu"
         },  
-        {
-            "url": "http://ko.zoho.to/ii/63143.txt",
-            "name": "🚀熊猫"
-        },   
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json",
             "name": "🚀未知"
