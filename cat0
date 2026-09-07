@@ -96,6 +96,10 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
             "name": "🚀Easy 接口"
         },
+       { 
+            "url": "http://39.98.94.174:8889/tvbox/api.json",
+            "name": "🚀贫民窟"
+        },
         {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/forever.json",
             "name": "🚀源力接口"
